@@ -38,3 +38,4 @@ function displayFact() {
     count = 0;
   }
 }
+
